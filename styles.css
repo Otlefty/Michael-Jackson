@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #100101c5;
+    background-color: #000000c5;
 }
 
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #670d0d;
+    color: #420f0f;
     font-weight: 600;
 }
 
@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--Vermelho);
+    background-color: var(--branco);
     border-radius: 30px;
     border: none;
     width: 14em;
