@@ -121,12 +121,12 @@ h2 {
 }
 
 .formulario {
-    background-color: #5c0505;
+    background-color: #ff0000;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgb(215, 23, 23);
+    box-shadow: 0 0 10px rgb(255, 225, 225);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
