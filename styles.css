@@ -4,7 +4,7 @@
 :root {
     --vermelho-claro: #ff2a2a;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #c70808;
+    --alto-contraste-texto: #f6f6f6;
     --alto-contraste-link: #ff0000;
 }
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #420f0f;
+    color: #000000;
     font-weight: 600;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #ffffffbd;
+    background-color: #da0707ef;
 
 }
 
@@ -126,7 +126,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgb(255, 255, 255);
+    box-shadow: 0 0 10px rgb(215, 23, 23);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
