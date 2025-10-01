@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffffc5;
+    background-color: #100101c5;
 }
 
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #110e0ebd;
+    background-color: #ffffffbd;
 
 }
 
@@ -126,7 +126,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgb(173, 173, 173);
+    box-shadow: 0 0 10px rgb(255, 255, 255);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
